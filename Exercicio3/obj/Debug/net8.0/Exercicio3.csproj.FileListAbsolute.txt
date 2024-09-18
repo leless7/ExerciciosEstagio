@@ -1,0 +1,17 @@
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\bin\Debug\net8.0\Exercicio3.exe
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\bin\Debug\net8.0\Exercicio3.deps.json
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\bin\Debug\net8.0\Exercicio3.runtimeconfig.json
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\bin\Debug\net8.0\Exercicio3.dll
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\bin\Debug\net8.0\Exercicio3.pdb
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\Exercicio3.csproj.AssemblyReference.cache
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfoInputs.cache
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfo.cs
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\Exercicio3.csproj.CoreCompileInputs.cache
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\Exercicio3.csproj.Up2Date
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\Exercicio3.dll
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\refint\Exercicio3.dll
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\Exercicio3.pdb
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\Exercicio3.genruntimeconfig.cache
+D:\Driver D\Arthur\Tentativa 3, o retorno\Exercicios\Exercicio3\obj\Debug\net8.0\ref\Exercicio3.dll
